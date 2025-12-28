@@ -51,15 +51,19 @@ Currently pursuing **MCA (Cybersecurity specialization)** and actively working o
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=harishprp370&theme=dark&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=harishprp370&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harishprp370&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=harishprp370&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=harishprp370&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishprp370&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=harishprp370&theme=gruvbox)
+<img src="https://github-profile-trophy.vercel.app/?username=harishprp370&theme=gruvbox&no-frame=true&row=1&column=6" />
+
 
 ---
 
@@ -71,7 +75,7 @@ Currently pursuing **MCA (Cybersecurity specialization)** and actively working o
 
 ## 👀 Profile Visitors
 
-[![](https://visitcount.itsvg.in/api?id=harishprp370&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=harishprp370&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ---
 
